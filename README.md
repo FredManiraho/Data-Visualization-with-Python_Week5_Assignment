@@ -1,4 +1,4 @@
-# Data-Visualization-with-Python_Week5_Assignment
+# Data-Visualization-with-Python
 # Import required libraries
 import pandas as pd
 import dash
